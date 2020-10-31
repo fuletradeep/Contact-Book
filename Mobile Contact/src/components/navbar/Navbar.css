@@ -1,0 +1,13 @@
+.navbar-extend{
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon-group{
+    display: flex;
+    margin: 1rem;
+}
+
+.fa{
+    font-size: 45px;
+}

@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-shadow: border-box;
+    font-family: 'Mogra', cursive;
+}
+
+.del-icon{
+    opacity: 0;
+}
+
+.contact:hover .del-icon{
+    opacity: 1;
+}
+
+.btn-danger{
+    position: absolute;
+    top: 5rem;
+    left: 1rem;
+}
+
